@@ -1,0 +1,27 @@
+{
+  "name": "hello-alu0101056944",
+  "version": "1.0.0",
+  "description": "My first packaged Github Action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101056944.git"
+  },
+  "keywords": [
+    "github",
+    "action"
+  ],
+  "author": "Marcos Barrios <alu0101056944@ull.edu.es> (https://github.com/alu0101056944)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101056944/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101056944#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
